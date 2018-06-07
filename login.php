@@ -16,7 +16,7 @@ require_once 'common.php';
 			position: absolute;
 			left: 20%;
 			top: 10%;
-			color: #31B0D5;
+			color: #ffffff;
 		}
 		.loginform{
 			display: block;
